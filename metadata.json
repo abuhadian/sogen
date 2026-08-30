@@ -1,0 +1,8 @@
+{
+  "name": "PDF Quiz Generator & Auto-Scoring",
+  "description": "Generator soal ujian berbasis AI dari dokumen PDF dengan fitur pengacakan pertanyaan & opsi, pengerjaan kuis interaktif, dan penghitungan skor otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
